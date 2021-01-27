@@ -1,0 +1,28 @@
+.header {
+	font-size: 77px;
+	font-weight: bold;
+	background: crimson;
+	text-align: center;
+	margin-bottom: 40px;
+	color: #fff;
+}
+
+.box {
+	border: 1px solid black;
+	width: 26%;
+	height: 250px;
+	float: left;
+	margin: 7px;
+	border-radius: 13px;
+	background: yellowgreen;
+	padding: 0px 26px 26px 26px;
+	color: #fff;
+	font-weight: bold;
+}
+.box p {
+	text-align: justify;
+	font-size: 18px;
+}
+.box h1 {
+	text-align: center;
+}
